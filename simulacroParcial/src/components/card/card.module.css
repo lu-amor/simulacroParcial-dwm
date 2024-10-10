@@ -1,0 +1,47 @@
+.card {
+    background-color: #ebebeb;
+    font-family: 'Monserrat', sans-serif;
+    font-size: 1rem;
+    font-weight: bold;
+    color: #ffffff;
+    border: 2px solid #00509d;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 140px;
+    height: 150px;
+    cursor: pointer;
+}
+
+.title {
+    color: #003f88;
+}
+
+.details {
+    background-color: #00509d;
+    font-family: 'Monserrat', sans-serif;
+    font-size: 0.9rem;
+    font-weight: bold;
+    color: #ffffff;
+    border: 2px solid #00509d;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+.delete {
+    background-color: #fdc500;
+    font-family: 'Monserrat', sans-serif;
+    font-size: 0.9rem;
+    font-weight: bold;
+    color: #00509d;
+    border: 2px solid #00509d;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+    cursor: pointer;
+}

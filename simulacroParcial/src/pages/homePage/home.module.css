@@ -1,0 +1,33 @@
+.title {
+    font-family: 'Monserrat', sans-serif;
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+    color: #00509d;
+}
+
+.sportButton {
+    font-family: 'Monserrat', sans-serif;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #00509d;
+    background-color: #ffd500;
+    border: 2px solid #00509d;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.buttonContainer {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 20px;
+}
+
+.cardContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 20px;
+}

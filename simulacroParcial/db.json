@@ -1,0 +1,32 @@
+{
+  "sports": [
+    {
+      "id": "8022c0ef-b7aa-4fbb-987f-5a52fff2634b",
+      "title": "Boxing",
+      "description": "A 1 vs 1 fight",
+      "players": "2",
+      "categories": "Men / Women, several divisions based on weight for both"
+    },
+    {
+      "id": "11c2dc7b-cdcf-4e1c-a7d8-db66f1540c65",
+      "title": "Volleyball",
+      "description": "2 teams, a net, and a ball",
+      "players": "12",
+      "categories": "Men / Women"
+    },
+    {
+      "id": "1bc5e7a4-019e-4bce-aa57-5c3321998c58",
+      "title": "Fencing",
+      "description": "The french way of the sword",
+      "players": "2",
+      "categories": "Men / Women"
+    },
+    {
+      "id": "26a340b7-b3c4-4ee0-9f5a-ee2e3726964e",
+      "title": "Taekwondo",
+      "description": "Korean martial art, heavily leg focused",
+      "players": "2",
+      "categories": "Men / Women"
+    }
+  ]
+}
