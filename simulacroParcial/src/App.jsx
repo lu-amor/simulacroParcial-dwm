@@ -91,7 +91,7 @@ function App() {
             />
           }
         />
-        <Route path="/home/:sportId" element={<SportDetailPage sports={sports}/>} />
+        <Route path="/home/:sportId" element={<SportDetailPage/>} />
       </Routes>
     </>
   );
